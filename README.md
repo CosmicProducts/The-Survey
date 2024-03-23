@@ -8,4 +8,13 @@ A short horror C# console game
 4. Answer the questions; but if you answer wrong, the game will close
 
 # Bugs/Problems
-When you open the .exe file and it shows this message
+When you open the .exe file and it shows this message; then click More Info
+
+![PENISSSSSSSS](https://github.com/CosmicProducts/The-Survey/assets/164584561/618a5237-89c2-4330-81a5-e950fb10c6ce)
+
+Then click Run Anyway
+
+![osjfiosjfoisdjfoidjfio0sd](https://github.com/CosmicProducts/The-Survey/assets/164584561/5866ac26-0aab-46cb-8c32-cb57dc11ef7d)
+
+It says this because the "Publisher" of the .exe file is unknown because your PC doesn't know who made it.
+as of right now I can't fix this, but don't worry it isn't a virus or anything.
